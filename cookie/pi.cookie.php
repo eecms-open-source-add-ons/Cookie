@@ -2,13 +2,13 @@
 /**
  * ExpressionEngine Cookie Plugin (https://expressionengine.com)
  *
- * @link      https://expressionengine.com/
+ * @link      https://github.com/expressionengine-add-ons/Cookie
  * @copyright Copyright (c) 2016–2017, EllisLab, Inc. (https://ellislab.com)
  * @license   https://opensource.org/licenses/MIT MIT
  */
 
 /**
- * EllisLab Cookie plugin class
+ * ExpressionEngine Cookie plugin class
  */
 class Cookie {
 
